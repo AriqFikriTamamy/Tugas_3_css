@@ -1,0 +1,21 @@
+p{
+  background-color: silver;
+}
+.paragraf1{
+  background-color: orange;
+}
+.paragraf2{
+  background-color: blue;
+  color: white;
+}
+.paragraf3{
+  font-family: georgia, serif;
+  background-color: white;
+  outline-style: solid;
+  outline-width: thin;
+}
+.paragraf4{
+  background-color: #68736b;
+  font-family: "Times New Roman", Georgia, serif;
+  font-weight:900;
+}
